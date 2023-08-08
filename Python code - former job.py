@@ -1,3 +1,9 @@
+Due to the highly sensitive nature of my previous job, i can't upload the complete files we worked on.
+Instead, i will display some random code snippets from various files.
+
+
+
+
 # -*- coding: latin-1 -*-
 import csv
 import os
